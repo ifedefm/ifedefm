@@ -9,6 +9,8 @@
 
 <br/>
 
+<h3> 🛠 &nbsp;Technical skills Data Science.</h3>
+
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
